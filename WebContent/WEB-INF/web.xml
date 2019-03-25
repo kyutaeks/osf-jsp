@@ -46,5 +46,9 @@
   <servlet-name>FoodServlet</servlet-name>
   <url-pattern>/food/*</url-pattern> 
   </servlet-mapping>
+  <servlet-mapping>
+  <servlet-name>FoodServlet</servlet-name>
+  <url-pattern>/foods/*</url-pattern> 
+  </servlet-mapping>
   
 </web-app>
